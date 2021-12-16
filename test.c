@@ -6,7 +6,8 @@ void Reverse(char* ,int);
 
 int main()
  {  
-    char c;
+	 //this code only use for practice
+	  char c;
     int a; 
     int b;
     char arr[]={'z','u','l','f','i','q','a','r','\0'};
