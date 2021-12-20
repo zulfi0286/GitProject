@@ -3,7 +3,7 @@
 #include <string.h>
 void main()
 {
-   printgf("Hello Zulfiqar/link");
+   printgf("Hello Zulfiqar/linkgit");
   
 
 }
